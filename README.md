@@ -1,55 +1,39 @@
-Hey, I'm Naga Parameswara Reddy Seelam
-🚀 DevOps Engineer | Cloud & Automation Enthusiast | Tech Explorer
-🔹 Passionate about building scalable, resilient, and automated cloud solutions
-🔹 Love optimizing infrastructure, streamlining deployments, and securing systems
-🔹 Always exploring cutting-edge DevOps tools and best practices
+# 👋 Hey, I'm Naga Parameswara Reddy!  
+🚀 **DevOps Engineer | Cloud & Automation Enthusiast | Tech Explorer**  
 
-"Automate. Optimize. Deploy. Repeat!"
+---
 
-🛠 My Tech Toolkit
-🌩 Cloud & Infra: AWS (EC2, S3, IAM, Lambda, VPC)
-⚙️ Automation: Bash, Shell Scripting, Ansible
-🚀 CI/CD & DevOps: Jenkins, GitHub Actions, ArgoCD
-📦 Containers & Orchestration: Kubernetes, Docker
-🔧 IaC: Terraform for infrastructure as code
-📊 Monitoring & Security: Prometheus, Grafana, Trivy (Image Scanning)
-📌 Project Management: JIRA, Agile & Scrum
+## 🚀 About Me  
+As a **DevOps Engineer**, I specialize in **AWS, Linux, Shell Scripting, Jenkins, Docker, Kubernetes, and Ansible**, ensuring efficient and automated workflows for seamless software development and deployment.  
+My passion lies in **optimizing infrastructure, automating processes, and enhancing CI/CD pipelines** to drive reliability and scalability.  
 
-🔥 What Drives Me?
-🔹 Crafting powerful DevOps pipelines for seamless software delivery
-🔹 Securing cloud applications with best-in-class security practices
-🔹 Exploring GitOps, DevSecOps, and automation strategies
-🔹 Collaborating on open-source projects & sharing knowledge
+---
 
-🚀 Let’s Connect & Build Together!
-I’m always open to collaborating on exciting DevOps, cloud, and automation projects. Let’s innovate together!
+## 🛠 Tech Stack  
+🌩 **Cloud & Infra:** AWS (EC2, S3, IAM, Lambda, VPC)  
+⚙️ **Automation:** Bash, Shell Scripting, Ansible  
+🚀 **CI/CD & DevOps:** Jenkins, GitHub Actions, ArgoCD  
+📦 **Containers & Orchestration:** Kubernetes, Docker  
+🔧 **IaC:** Terraform for infrastructure as code  
+📊 **Monitoring & Security:** Prometheus, Grafana, Trivy (Image Scanning)  
+📌 **Project Management:** JIRA, Agile & Scrum  
 
-📩 Reach Out To Me:
+---
 
+## 🤝 Open to Collaborations  
+I always want to collaborate on **open-source DevOps projects, cloud-native applications, and automation-driven solutions**.  
+If you're working on something exciting in **DevOps, cloud infrastructure, or CI/CD automation**, let's connect and innovate together!  
 
+✨ **Excited to learn, build, and automate!**  
 
-📈 My GitHub Stats
+---
 
+## 📬 Connect with Me  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sparameswar)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parameswarreddy2904@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaParameswaraReddy)  
 
-🚀 "The best way to predict the future is to automate it!"
+---
 
-This version is unique, engaging, and professional while reflecting your skills and aspirations. Let me know if you want any tweaks! 💡
-
-
-
-
-<!--
-**NagaParameswaraReddy/NagaParameswaraReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 "The best way to predict the future is to automate it!" 
